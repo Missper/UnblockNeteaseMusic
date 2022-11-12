@@ -189,3 +189,15 @@ match(418602084, ['qq', 'kuwo', 'migu']).then(console.log)
 ## 许可
 
 The MIT License
+
+
+## 使用Git遇到的问题
+
+> 参考这几个链接
+> 解决没有权限访问,冲突合并,提示不相关的项目等问题
+> 不要嫌麻烦, 出现问题马上把这几个链接全部打开, 一定会有有用的信息的
+
+https://www.jianshu.com/p/1c5c6ac6f176
+https://blog.csdn.net/weixin_43756060/article/details/91038007
+https://github.com/Missper/UnblockNeteaseMusic
+https://developer.aliyun.com/article/614459
